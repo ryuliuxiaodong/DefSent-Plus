@@ -1,3 +1,3 @@
-# 14 encoders have been uploaed to https://huggingface.co/RyuKT.
+# Refer to "DefSentPlus-Readme.pdf" for using DefSent+
 # 
-# code has been released; datasets link and Readme are under preparation, which will be released by today
+# If encountering issues, please feel free and do not hesitate to raise issues.
